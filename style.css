@@ -1,4 +1,42 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: blanchedalmond;
+    background-color: brown;
+}
+
+div, h1, body {
+    text-align: center;
+}
+  
+ul, ol  {
+    display: inline-block;
+    text-align: left;
+    background-color: gray;
+}
+
+ul {
+    color: orange;
+    
+}
+
+ol {
+    color: blueviolet;
+}
+
 img {
     height: auto;
-    width: 200px;
+    width: 400px;
+}
+
+h1 {
+    color:black;
+    background-color: orange;
+}
+
+h2 {
+    color: purple;
+    background-color: goldenrod;
 }
