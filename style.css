@@ -1,5 +1,19 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1, h2, p, ol, ul{
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+}
+
+h1, h2 {
+    display: block;
+    height: auto;
+    width: 200px;
+    margin: 20px auto;
 }
 
 p {
@@ -15,6 +29,7 @@ ul, ol  {
     display: inline-block;
     text-align: left;
     background-color: gray;
+    padding: 20px;
 }
 
 ul {
